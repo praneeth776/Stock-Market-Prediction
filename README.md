@@ -2,6 +2,7 @@
 
 This is an ongoing collaborative project aimed at implementing Deep Learning Algorithms for Stock Price Prediction.
 
+<pre>
 ├── src/
 │   ├── Readme.md
 │   ├── data_preprocessing/
@@ -12,4 +13,4 @@ This is an ongoing collaborative project aimed at implementing Deep Learning Alg
 │       ├── train
 │       └── test 
 │   └── saved_models/
-
+</pre>
