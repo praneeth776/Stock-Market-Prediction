@@ -1,3 +1,3 @@
 # Stock Market Prediction
 
-This is a kaggle competition to predict stock market prices
+This is an ongoing collaborative project aimed at implementing Deep Learning Algorithms for Stock Price Prediction.
